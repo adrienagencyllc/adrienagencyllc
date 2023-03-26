@@ -1,6 +1,6 @@
 # Welcome to Adrien Agency! :wave:
 
-![Adrien Agency Banner](https://example.com/your-banner-image-url)
+![Adrien Agency Banner](./logo.png)
 
 We are a full-service digital agency specializing in Graphic Design, Web Development, and DevOps solutions. Our mission is to provide top-notch, innovative, and reliable services to help businesses thrive in the digital world.
 
